@@ -14,6 +14,7 @@ import java.util.Set;
  */
 @Data
 @Entity
+@Table(name = "authors")
 public class Author {
 
 
